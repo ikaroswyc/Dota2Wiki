@@ -1,0 +1,10 @@
+
+
+target 'Dota' do
+  use_frameworks!
+  
+  pod 'SDWebImage'
+
+  
+end
+
